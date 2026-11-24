@@ -11,6 +11,9 @@ Threat hunts written as SQL queries that can be reviewed, versioned and tested. 
 ## 3. Demo
 Capture to record: the DuckDB-backed test run showing both planted threats found.
 
+![Real test run, captured 24 Nov 2026](docs/test-run.svg)
+*Real output from this repository's own tests, captured 24 Nov 2026.*
+
 ## 4. Run it yourself
 **Prerequisites:** Python 3 with duckdb. A GCP project only for the BigQuery deploy.
 

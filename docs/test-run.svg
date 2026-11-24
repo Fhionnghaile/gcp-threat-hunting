@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="699" height="242" viewBox="0 0 699 242" role="img" aria-label="gcp-threat-hunting — real test run, captured 24 Nov 2026">
+<rect width="699" height="242" rx="10" fill="#0f172a"/>
+<rect width="699" height="32" rx="10" fill="#1e293b"/><rect y="22" width="699" height="10" fill="#1e293b"/>
+<circle cx="18" cy="16" r="6" fill="#ef4444"/><circle cx="38" cy="16" r="6" fill="#f59e0b"/><circle cx="58" cy="16" r="6" fill="#22c55e"/>
+<text x="349.5" y="21" text-anchor="middle" font-family="ui-sans-serif,Segoe UI,Arial" font-size="12" fill="#cbd5e1">gcp-threat-hunting — real test run, captured 24 Nov 2026</text>
+<g font-family="ui-monospace,Consolas,Menlo,monospace" font-size="13">
+<text x="18" y="50" fill="#7dd3fc" xml:space="preserve">$ pip install -q duckdb pytest 2&gt;&amp;1 | tail -1; python -m pytest -v</text>
+<text x="18" y="68" fill="#e2e8f0" xml:space="preserve">============================= test session starts ==============================</text>
+<text x="18" y="86" fill="#e2e8f0" xml:space="preserve">platform linux -- Python 3.12.16, pytest-9.2.0, pluggy-1.7.0 -- /usr/local/bin/python</text>
+<text x="18" y="104" fill="#e2e8f0" xml:space="preserve">collecting ... collected 2 items</text>
+<text x="18" y="122" fill="#e2e8f0" xml:space="preserve"></text>
+<text x="18" y="140" fill="#86efac" xml:space="preserve">tests/test_hunts.py::test_impossible_travel_flags_alice PASSED           [ 50%]</text>
+<text x="18" y="158" fill="#86efac" xml:space="preserve">tests/test_hunts.py::test_privilege_escalation_flags_self_grant PASSED   [100%]</text>
+<text x="18" y="176" fill="#e2e8f0" xml:space="preserve"></text>
+<text x="18" y="194" fill="#86efac" xml:space="preserve">============================== 2 passed in 1.00s ===============================</text>
+<text x="18" y="212" fill="#e2e8f0" xml:space="preserve">[exit 0]</text>
+</g></svg>
