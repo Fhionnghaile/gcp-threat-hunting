@@ -4,7 +4,7 @@
 > **Threat-hunting over GCP logs: detections as queries you can run, test and version.**  
 > **Result:** 2 tests; detections as reviewable, version-controlled queries.  
 > **Reproduce:** `pytest -q`  
-> ![CI](https://github.com/fhionnghaile/gcp-threat-hunting/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/gcp-threat-hunting/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/gcp-threat-hunting/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/gcp-threat-hunting)
 >
 > **What this is worth:** Turns 'we should look for X' into a repeatable, tested detection instead of a one-off console search.
 
